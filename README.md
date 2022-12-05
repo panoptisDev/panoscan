@@ -1,4 +1,4 @@
-# <img src="https://iili.io/HCjgdfs.png" width="25" height="25"/>  Panoscan
+# <img src="https://iili.io/HCjgdfs.png" width="225" height="225"/>
 
 Main Net: [teloscan.io](https://www.teloscan.io/) [![Netlify Status](https://api.netlify.com/api/v1/badges/1a750b68-90d9-4e80-8ac9-74084bc475ae/deploy-status)](https://app.netlify.com/sites/teloscan/deploys)  
 
