@@ -10,7 +10,7 @@ Teloscan is the official Telos EVM block explorer. Explore accounts, transaction
 
 ## Recent Contributions
 
-![Alt](https://repobeats.axiom.co/api/embed/fbc67fae1abc36c6eff5d717f3840280afd1a109.svg "Repobeats analytics image")
+![Alt](https://iili.io/HCjrr6g.png "Repobeats analytics image")
 
 ## Install the dependencies
 
