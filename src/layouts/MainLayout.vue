@@ -15,7 +15,7 @@
                             width="45"
                         >
                         <div class="text-h5 text-white">
-                            Teloscan
+                            Panoscan
                         </div>
                     </router-link>
                 </div>
@@ -53,7 +53,7 @@
                             class="separator"
                         >
                             <q-item-section>
-                                <q-item-label class="flex items-center"><img class="grayscale" :src="stlosLogo" width="14" /> <span class="q-pl-sm">Stake Telos</span> </q-item-label>
+                                <q-item-label class="flex items-center"><img class="grayscale" :src="stlosLogo" width="14" /> <span class="q-pl-sm">Stake Pano</span> </q-item-label>
                             </q-item-section>
                         </q-item>
                         <q-item
@@ -73,7 +73,7 @@
                             class="separator"
                         >
                             <q-item-section>
-                                <q-item-label class="flex items-center"><q-icon name="crisis_alert" />  <span class="q-pl-sm">Telos Monitor</span></q-item-label>
+                                <q-item-label class="flex items-center"><q-icon name="crisis_alert" />  <span class="q-pl-sm">Panoptis Monitor</span></q-item-label>
                             </q-item-section>
                         </q-item>
                         <q-item
@@ -83,7 +83,7 @@
                             @click="goTo('https://teloscan.io/')"
                         >
                             <q-item-section>
-                                <q-item-label class="flex items-center"><q-icon name="swap_horiz" />  <span class="q-pl-sm">Teloscan Mainnet</span></q-item-label>
+                                <q-item-label class="flex items-center"><q-icon name="swap_horiz" />  <span class="q-pl-sm">Panoscan Mainnet</span></q-item-label>
                             </q-item-section>
                         </q-item>
 
@@ -94,7 +94,7 @@
                             @click="goTo('https://testnet.teloscan.io/')"
                         >
                             <q-item-section>
-                                <q-item-label class="flex items-center"><q-icon name="swap_horiz" />  <span class="q-pl-sm"> Teloscan Testnet</span> </q-item-label>
+                                <q-item-label class="flex items-center"><q-icon name="swap_horiz" />  <span class="q-pl-sm"> Panoscan Testnet</span> </q-item-label>
                             </q-item-section>
                         </q-item>
                     </q-list>

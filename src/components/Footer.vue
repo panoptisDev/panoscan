@@ -2,7 +2,7 @@
 <div class="c-footer row">
     <div class="col-12">
         <router-link to="/">
-            Teloscan
+            Panoscan
         </router-link>
         &copy;&nbsp;{{ year }}
     </div>

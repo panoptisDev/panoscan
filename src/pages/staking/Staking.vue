@@ -3,10 +3,10 @@
     <div class="row q-mx-md">
         <div class="c-staking-page__header col-xs-12 col-md-6">
             <h1 class="c-staking-page__title">
-                Telos EVM Staking
+                Pano EVM Staking
             </h1>
             <span class="text-white">
-                Stake TLOS for sTLOS to earn interest from the staking rewards pool
+                Stake PANO for sPANO to earn interest from the staking rewards pool
             </span>
         </div>
         <div class="col-xs-12 col-md-6">
