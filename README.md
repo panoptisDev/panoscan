@@ -1,4 +1,4 @@
-# <img src="[https://iili.io/HCjgdfs.png](https://iili.io/HCwHHl4.png)" width="400" height="100"/>
+# <img src="https://iili.io/HCwHHl4.png" width="400" height="100"/>
 
 Main Net: [teloscan.io](https://www.teloscan.io/) [![Netlify Status](https://api.netlify.com/api/v1/badges/1a750b68-90d9-4e80-8ac9-74084bc475ae/deploy-status)](https://app.netlify.com/sites/teloscan/deploys)  
 
